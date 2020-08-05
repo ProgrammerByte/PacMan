@@ -1,0 +1,4 @@
+C:\Users\Thomas Popay\source\repos\OpenGL Blank Template\OpenGL\Debug\Template.exe
+C:\Users\Thomas Popay\source\repos\OpenGL Blank Template\OpenGL\Debug\Template.pdb
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\Debug\Template.exe
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\Debug\Template.pdb

@@ -1,0 +1,32 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(139,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(140,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(148,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(151,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(191,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(191,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(195,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(195,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(212,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(212,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(216,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(216,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(309,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(309,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(326,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(358,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(358,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(358,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(388,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(397,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(406,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Application.cpp(415,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ghost.cpp
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Ghost.cpp(26,22): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Ghost.cpp(106,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\src\Ghost.cpp(107,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\PacMan\OpenGL\Debug\Template.exe
